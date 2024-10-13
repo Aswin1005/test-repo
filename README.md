@@ -1,3 +1,3 @@
 # Read
 
-this is to explain what this repo does
+This is to explain what this repo does.
